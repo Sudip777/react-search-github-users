@@ -19,16 +19,16 @@ export default {
   "site_admin": false,
   "name": "Sudip Parajuli",
   "company": "xyz",
-  "blog": "",
+  "blog": "https://sudipparajuli.com.np",
   "location": "Nepal",
   "email": null,
   "hireable": null,
-  "bio": " Aspiring Programmer | Tech Enthusiast | Getting 1% better everyday⏳",
+  "bio": " Aspiring Programmer | Tech Enthusiast | \r\nGetting 1% better every day⏳",
   "twitter_username": "sudipparajuli10",
-  "public_repos": 15,
+  "public_repos": 16,
   "public_gists": 0,
-  "followers": 1,
-  "following": 1,
+  "followers": 2,
+  "following": 3,
   "created_at": "2021-04-26T12:42:30Z",
-  "updated_at": "2023-02-27T16:16:41Z"
+  "updated_at": "2023-05-24T09:58:07Z"
 }
